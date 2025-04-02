@@ -1,0 +1,2 @@
+C:/Users/Admin/StudioProjects/flogo/android/app/.cxx/Debug/2tm46156/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/StudioProjects/flogo/android/app/.cxx/Debug/2tm46156/x86_64/CMakeFiles/rebuild_cache.dir
