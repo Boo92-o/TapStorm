@@ -39,6 +39,7 @@ dependencies:
   video_player_web: ^2.3.4
   flame: ^1.26.0
   flutter_launcher_icons: ^0.14.3
+  audioplayers: ^6.4.0
 
 dev_dependencies:
   flutter_test:
@@ -63,7 +64,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/player.png
-
+    - assets/sound/pixel-playground.mp3
     - assets/images/background.png
 
   # To add assets to your application, add an assets section, like this:
